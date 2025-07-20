@@ -3,7 +3,7 @@ import streamlit as st
 import subprocess
 import sys
 import os
-from game_generator import generate_game_code
+from gamemodule.game_generator import generate_game_code
 
 st.set_page_config(layout="wide")
 st.title("Web-Ready 2D Game Generator (via Pygbag)")

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beaming-signal-466415-r4",
+  "private_key_id": "033cfc09c7bcd7e401d9390ebca4d9dfdf411d1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC60iMZUbztDdlW\n60+WQx7Lv2JER1uAVccKFPEf3MY70RW8taHJtG7pRPCwhbZlVEL19XGl27mElRX2\nWnP2lCHfMZO821pjBOAS0MzOBhbua5fFYT+4koW8uC3MQCHN+66zi/naDkl5KIIo\nz/fq62Fowwpp2lPjc8cCN18F0i+hfiwi9Go2rfbSzvXdIOJ0j469PMTcSFawttRd\n0gdvTBV8ISdo5RrkhLU8xz+b//PH7BSxfnOW5QPFUULDIBPiZd/Sk2IrNsh2j0Na\n0HE9EEcnCmjOeuJpfwfd2ZKOepoONrCVyMY6XLyTSQp4wzUTEhBNF+TvMIaIRjAH\nQFxvcVoDAgMBAAECggEADJCHdcjOiQRDwsRur4THdHKPBwKO6ocFAkOS9/lJh8pc\nc5BPrO4qq3D3MxgQbVOJHAZW5LhuC2Gvfshp64KI81GKmyAG6IlHvLGNpKmPhJd4\njKN+vUjKynzPRQu8eksGs+KieizjJM05pnReOyQmLVKOHRJm+UbXHT9gxQEe3PXZ\nnwO73w+TQzEHO4Cvds19c+IdiQP+w/EPFqBdtEYRoL9cskkut3GfMv46uRhCvdU1\nomvKDKDO05HWugOmH2w5/5RU67tGuQBzWmJ+sfbmlm9nbcz7JfoTo61CI6UPW2RJ\nNgbhvxG0mLsZ2sVBpb6xe/PHHIfGDvX/D4eKHyKq0QKBgQDltBLsXxTXdbPWkwtI\nPQWBJIYg+zrLZRjnx8vBjAaKJg+rQpE1J718aZl7iQCPvmLlygmWSJHG+bmJnsM0\nktS05g7yQKUmcscOc9B2o72aFOxss8iuzyUvFYY2MWYaI8tivYev/bbqOzFNXJz0\nPpSvMcZFu2UpMG7ku5EpT+RtaQKBgQDQNU1kgvfVThqw58ctGAYFYq9RKio6s9fU\nK/ZW9w02OFTkCaSXMgX4Qvp6VOuJZaKdYCSM5eyBU+1k7wXhAqXluPEikY7+LC0/\nDoDpyXTfciTscwhCucdjyKQuVKWVv0RCHRf/kabKKwosAz7pyVZ9oCJNRXoYUe7V\nurMcgpIiiwKBgEAniyF5bNjAhvnnF7+VS3RGPy/2+vTTx6D0rHPiJ/Ftr/KlJOkz\nsDiPRc669O0wv25ufz76Bb0NAkTtkpecaswbdREz/OxAIlhnAFIiaVIfhejWTbaF\nJF2CJXn9Ugb6+FMbnEoLEotY/OwecbfFwsErpbTUIezfGhnISULAjYwBAoGAf8o3\nVhmMQz9M4odfmC3GhEetkwNuJ9l5/p988qNvWHf6onvIqYPqZhW15p94cTwQMsdv\np4r3PellKy4JTbFyYSzB05XDTf2PR8R/Gv6q3PoR744q48lit7vOCSGq/94E5w80\nS4f59tuzwo+7bYJFs5U1eHfMGGExVbzhcf4x80ECgYEAkmyxqh7+P+uFGxIIz5U7\n1Ly9JvOdpyf39VAOUsyF7MICxa5y8+vWzaVzzIdAIxZeNo69a0QbLgvQ88KuBemL\nccNKGq8pYv4BtZvpz+svCXSy+Dlm2u2RowKbEiv3M5fgQIhX87Q1RzRBUrHqfPbv\nRFCyMFeh6w3flRhqz8Co53E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-image-gen@beaming-signal-466415-r4.iam.gserviceaccount.com",
+  "client_id": "106006802250748617414",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-image-gen%40beaming-signal-466415-r4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
