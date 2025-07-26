@@ -113,7 +113,7 @@ if __name__ == "__main__":
     # tool = create_rag_retrieval_tool(corpus)
     rag.upload_file(
     corpus.name,
-    path="docs/the-water-cycle-lesson-plans.pdf",
+    path=r"E:\ai projects 2025\hackthon\docs\the-water-cycle-lesson-plans.pdf",
     display_name="waterclycle.pdf",
     )
     resp = run_rag_retrieval_query(corpus, "what is this pdf about?")

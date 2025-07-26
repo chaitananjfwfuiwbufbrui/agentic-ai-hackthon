@@ -1,0 +1,39 @@
+The capital of France is Paris, a beautiful city known for its art, culture, and iconic landmarks like the Eiffel Tower.
+
+Machine learning is a subset of artificial intelligence that enables computers to learn and improve from experience without being explicitly programmed.
+
+Google Cloud Platform provides various services including compute, storage, databases, and AI/ML capabilities for building scalable applications.
+
+OCR (Optical Character Recognition) is a technology that converts images of text into machine-readable text, enabling digital processing of printed documents.
+
+RAG (Retrieval-Augmented Generation) combines information retrieval with text generation to provide more accurate and contextually relevant responses.
+
+Vertex AI is Google Cloud's unified ML platform for building, deploying, and managing machine learning models at scale.
+
+Streamlit is a Python library that makes it easy to create web applications for data science and machine learning projects.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language.
+
+Computer vision is a field of AI that trains computers to interpret and understand visual information from the world.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers to model complex patterns in data.
+
+The Eiffel Tower is a wrought-iron lattice tower located in Paris, France, and is one of the most recognizable landmarks in the world.
+
+Python is a high-level, interpreted programming language known for its simplicity, readability, and extensive library ecosystem.
+
+TensorFlow is an open-source machine learning framework developed by Google for building and training neural networks.
+
+Cloud computing is the delivery of computing services over the internet, including servers, storage, databases, and software.
+
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans.
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge from data.
+
+Neural networks are computing systems inspired by biological neural networks that constitute animal brains.
+
+Big data refers to extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations.
+
+API (Application Programming Interface) is a set of rules and protocols for building and integrating application software.
+
+Docker is a platform for developing, shipping, and running applications in containers for consistent deployment. 
